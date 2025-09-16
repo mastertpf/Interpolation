@@ -1,0 +1,2 @@
+# Interpolation
+lineær interpolation
