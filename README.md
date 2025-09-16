@@ -3,7 +3,7 @@
 > Denne README er genereret ud fra notebook'en *Interpolation_Lineaer.ipynb*. Den er tænkt som en klassisk, nøgtern vejledning til studerende.
 
 ## Åbn i Google Colab
-Klik på badgen herunder (ret `<brugernavn>`, `<repo>` og stien til filen i dit GitHub).
+Klik på badgen herunder (ret `mastertpf`, `Interpolation` og stien til filen i dit GitHub).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/<brugernavn>/<repo>/blob/main/Interpolation_Lineaer_clean.ipynb
