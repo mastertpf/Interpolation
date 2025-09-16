@@ -6,7 +6,7 @@
 Klik på badgen herunder (ret `mastertpf`, `Interpolation` og stien til filen i dit GitHub).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/<brugernavn>/<repo>/blob/main/Interpolation_Lineaer_clean.ipynb
+https://colab.research.google.com/github/mastertpf/Interpolation/blob/main/Interpolation_Lineaer_clean.ipynb
 )
 
 > Alternativt: Åbn Colab → **File → Open notebook… → GitHub** og søg på dit repo.
